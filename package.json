@@ -1,6 +1,6 @@
 {
   "name": "iobroker.xiaomi-gateway3",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "Xiaomi Gateway 3 integration",
   "author": {
     "name": "Evgenii Abramov",
