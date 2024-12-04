@@ -6,7 +6,7 @@
     "name": "Evgenii Abramov",
     "email": "john.abramov@gmail.com"
   },
-  "homepage": "https://github.com/lasthead0/ioBroker.xiaomi-gateway3",
+  "homepage": "https://github.com/beatlejute/ioBroker.xiaomi-gateway3",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lasthead0/ioBroker.xiaomi-gateway3"
+    "url": "https://github.com/beatlejute/ioBroker.xiaomi-gateway3"
   },
   "dependencies": {
     "@iobroker/adapter-core": "^2.6.0",
