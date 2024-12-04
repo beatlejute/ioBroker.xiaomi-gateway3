@@ -83,6 +83,18 @@
       }
     ],
     "news": {
+      "0.3.7": {
+        "en": "Fixes and improvements",
+        "de": "Korrekturen und Verbesserungen",
+        "ru": "Исправления и улучшения",
+        "pt": "Correções e melhorias",
+        "nl": "Verbeteringen en verbetering",
+        "fr": "Fixations et améliorations",
+        "it": "Fissazioni e miglioramenti",
+        "es": "Arreglos y mejoras",
+        "pl": "Fiksy i poprawki",
+        "zh-cn": "B. 固定和改进"
+      },
       "0.3.6": {
         "en": "Fixes and improvements",
         "de": "Korrekturen und Verbesserungen",
